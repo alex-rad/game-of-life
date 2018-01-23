@@ -1,4 +1,4 @@
-apply plugin: 'jav'
+apply plugin: 'java'
 apply plugin: 'code-quality'
 
 repositories {
