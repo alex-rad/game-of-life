@@ -85,7 +85,7 @@
             the next generation.
         </li>
         <li>Any dead cell with exactly three live neighbours becomes a
-            live cell. New version !
+            live cell. v2 !
         </li>
     </ul>
     </p>
